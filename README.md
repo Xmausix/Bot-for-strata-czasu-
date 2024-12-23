@@ -1,6 +1,6 @@
-#How to use bot
+# How to use bot
 
-##Setup
+## Setup
 
 ```bash
 
@@ -9,7 +9,7 @@ npm init -y
 npm install discord.js canvas
 ```
 
-##To launch 
+## To launch 
 
 ```bash
 node discord.js
